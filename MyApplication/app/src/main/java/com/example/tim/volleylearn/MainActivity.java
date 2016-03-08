@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
     ImageView mImg;
     @InjectView(R.id.netWorkImg)
     NetworkImageView mNetWorkImg;
+    
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
